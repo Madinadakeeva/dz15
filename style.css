@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(192, 188, 188);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.btn {
+    width: 10%;
+	font-size: 14pt;
+	color: white;
+	background: #4d3e44;
+	height: 30px;
+	padding: 5px;
+	border: 1px solid;
+    display: block;
+    margin: 0 auto;
+    margin-top: 15px;
+
+}
+
+.inp {
+    background-color: azure;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    
+}
+
+/* ul li{
+  margin-top: 20px;  
+  text-align: center; 
+  margin: 0 auto;
+  width: 18%;
+  font-size: 25px;
+} */
